@@ -1,2 +1,2 @@
-# Bug Bounty
+# Bug bounty program
 Bug Bounty Tips
