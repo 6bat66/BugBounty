@@ -23,6 +23,7 @@ go install -v github.com/takshal/freq@latest
 go install -v github.com/j3ssie/sdlookup@latest
 go install -v github.com/hueristiq/xurlfind3r/cmd/xurlfind3r@latest
 go install -v github.com/ferreiraklet/airixss@latest
+go install -v github.com/ferreiraklet/nilo@latest
 
 
 pip install git-dumper
