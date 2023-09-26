@@ -19,7 +19,10 @@ go install -v github.com/hakluke/hakcheckurl@latest
 go install -v github.com/tomnomnom/meg@latest
 go install -v github.com/projectdiscovery/dnsx/cmd/dnsx@latest
 go install -v github.com/tomnomnom/waybackurls@latest
-
+go install -v github.com/takshal/freq@latest
+go install -v github.com/j3ssie/sdlookup@latest
+go install -v github.com/hueristiq/xurlfind3r/cmd/xurlfind3r@latest
+go install -v github.com/ferreiraklet/airixss@latest
 
 
 pip install git-dumper
@@ -27,3 +30,5 @@ pip3 install uro
 https://github.com/Findomain/Findomain/blob/master/docs/INSTALLATION.md#installation-in-linux-using-compiled-artifacts
 https://github.com/s0md3v/Photon
 https://github.com/screetsec/Sudomy
+https://github.com/vortexau/dnsvalidator
+https://github.com/d3mondev/puredns
