@@ -17,3 +17,7 @@ go install -v github.com/projectdiscovery/dnsx/cmd/dnsx@latest
 go install -v github.com/deletescape/goop@latest
 go install -v github.com/hakluke/hakcheckurl@latest
 go install -v github.com/tomnomnom/meg@latest
+go install -v github.com/projectdiscovery/dnsx/cmd/dnsx@latest
+
+
+https://github.com/Findomain/Findomain/blob/master/docs/INSTALLATION.md#installation-in-linux-using-compiled-artifacts
