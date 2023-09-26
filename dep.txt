@@ -18,6 +18,11 @@ go install -v github.com/deletescape/goop@latest
 go install -v github.com/hakluke/hakcheckurl@latest
 go install -v github.com/tomnomnom/meg@latest
 go install -v github.com/projectdiscovery/dnsx/cmd/dnsx@latest
+go install -v github.com/tomnomnom/waybackurls@latest
 
 
+
+pip install git-dumper
 https://github.com/Findomain/Findomain/blob/master/docs/INSTALLATION.md#installation-in-linux-using-compiled-artifacts
+https://github.com/s0md3v/Photon
+https://github.com/screetsec/Sudomy
