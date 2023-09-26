@@ -23,6 +23,7 @@ go install -v github.com/tomnomnom/waybackurls@latest
 
 
 pip install git-dumper
+pip3 install uro
 https://github.com/Findomain/Findomain/blob/master/docs/INSTALLATION.md#installation-in-linux-using-compiled-artifacts
 https://github.com/s0md3v/Photon
 https://github.com/screetsec/Sudomy
