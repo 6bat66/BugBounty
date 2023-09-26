@@ -1,0 +1,2 @@
+# BugBounty
+Bug Bounty Tips
