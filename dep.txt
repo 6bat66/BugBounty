@@ -27,7 +27,7 @@ go install -v github.com/hakluke/hakrawler@latest
 go install -v github.com/ffuf/ffuf/v2@latest
 
 
-
+pip install wfuzz
 pip install git-dumper
 pip3 install uro
 https://github.com/Findomain/Findomain/blob/master/docs/INSTALLATION.md#installation-in-linux-using-compiled-artifacts
