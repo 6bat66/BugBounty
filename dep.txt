@@ -24,6 +24,7 @@ go install -v github.com/ferreiraklet/nilo@latest
 go install -v github.com/003random/getJS@latest
 go install -v github.com/lc/subjs@latest
 go install -v github.com/hakluke/hakrawler@latest
+go install -v github.com/ffuf/ffuf/v2@latest
 
 
 
