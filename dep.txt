@@ -27,6 +27,7 @@ go install -v github.com/hakluke/hakrawler@latest
 go install -v github.com/ffuf/ffuf/v2@latest
 
 
+pip install --upgrade xnLinkFinder
 pip install wfuzz
 pip install git-dumper
 pip3 install uro
