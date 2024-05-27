@@ -26,6 +26,7 @@ go install -v github.com/lc/subjs@latest
 go install -v github.com/hakluke/hakrawler@latest
 go install -v github.com/ffuf/ffuf/v2@latest
 go install -v github.com/d3mondev/puredns/v2@latest
+go install -v github.com/tomnomnom/unfurl@latest
 
 
 pip install --upgrade xnLinkFinder
