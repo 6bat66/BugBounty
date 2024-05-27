@@ -27,6 +27,7 @@ go install -v github.com/hakluke/hakrawler@latest
 go install -v github.com/ffuf/ffuf/v2@latest
 go install -v github.com/d3mondev/puredns/v2@latest
 go install -v github.com/tomnomnom/unfurl@latest
+go install -v github.com/projectdiscovery/notify/cmd/notify@latest
 
 
 pip install --upgrade xnLinkFinder
