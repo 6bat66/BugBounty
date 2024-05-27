@@ -25,6 +25,7 @@ go install -v github.com/003random/getJS@latest
 go install -v github.com/lc/subjs@latest
 go install -v github.com/hakluke/hakrawler@latest
 go install -v github.com/ffuf/ffuf/v2@latest
+go install -v github.com/d3mondev/puredns/v2@latest
 
 
 pip install --upgrade xnLinkFinder
@@ -34,5 +35,6 @@ pip3 install uro
 https://github.com/Findomain/Findomain/blob/master/docs/INSTALLATION.md#installation-in-linux-using-compiled-artifacts
 https://github.com/s0md3v/Photon
 https://github.com/screetsec/Sudomy
-https://github.com/vortexau/dnsvalidator
-https://github.com/d3mondev/puredns
+https://github.com/vortexau/dnsvalidator (python3 setup.py install)
+
+https://github.com/pry0cc/axiom
