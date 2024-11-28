@@ -30,6 +30,7 @@ go install -v github.com/tomnomnom/unfurl@latest
 go install -v github.com/projectdiscovery/notify/cmd/notify@latest
 go install -v github.com/tomnomnom/qsreplace@latest
 go install github.com/ThreatUnkown/jsubfinder@latest
+go install github.com/gruntwork-io/git-xargs@latest
 
 
 pip install --upgrade xnLinkFinder
