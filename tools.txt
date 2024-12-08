@@ -29,8 +29,13 @@ go install -v github.com/d3mondev/puredns/v2@latest
 go install -v github.com/tomnomnom/unfurl@latest
 go install -v github.com/projectdiscovery/notify/cmd/notify@latest
 go install -v github.com/tomnomnom/qsreplace@latest
-go install github.com/ThreatUnkown/jsubfinder@latest
-go install github.com/gruntwork-io/git-xargs@latest
+go install -v github.com/ThreatUnkown/jsubfinder@latest
+go install -v github.com/gruntwork-io/git-xargs@latest
+go install -v github.com/dwisiswant0/cf-check@latest
+go install -v github.com/rverton/webanalyze/cmd/webanalyze@latest
+go install -v github.com/tomnomnom/httprobe@latest
+go install -v github.com/sensepost/gowitness@latest
+go install -v github.com/haccer/subjack@latest
 
 
 pip install --upgrade xnLinkFinder
